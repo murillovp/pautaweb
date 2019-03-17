@@ -1,0 +1,12 @@
+.bg-color {
+	background-color: var(--offwhite);
+}
+
+.aside {
+	max-width: 16.66%;
+	background-color: white;
+}
+
+.bg-white {
+	background-color: white;
+}
